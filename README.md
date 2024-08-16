@@ -1,18 +1,18 @@
-Sure! Here’s a description for your README file:
-
----
-
 # Anime Recommender System
 
 Discover your next favorite anime with our Anime Recommender System! This app leverages advanced recommendation algorithms and the Jikan API to provide personalized anime suggestions based on your preferences.
 
 ## Features
 
+![Anime Background](images/bg.jpg)
+
 - **Personalized Recommendations:** Enter your favorite anime and receive tailored suggestions.
 - **High-Quality Posters:** Each recommendation includes a high-resolution poster fetched using the Jikan API.
 - **User-Friendly Interface:** Easily select an anime from the dropdown and view a list of recommended series with visual previews.
 
 ## How It Works
+
+![Naruto](images/naruto.jpg)
 
 1. **Select Anime:** Choose an anime from the dropdown menu.
 2. **Get Recommendations:** The app uses recommendation algorithms to find similar anime.
