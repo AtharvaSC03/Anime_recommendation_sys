@@ -12,7 +12,7 @@ Discover your next favorite anime with our Anime Recommender System! This app le
 
 ## How It Works
 
-![Naruto](images/naruto.jpg)
+![Naruto](images/naruro.jpg)
 
 1. **Select Anime:** Choose an anime from the dropdown menu.
 2. **Get Recommendations:** The app uses recommendation algorithms to find similar anime.
