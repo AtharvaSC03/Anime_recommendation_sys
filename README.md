@@ -27,7 +27,7 @@ Discover your next favorite anime with our Anime Recommender System! This app le
 
 2. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run Anime.py
    ```
 
 ## API
